@@ -1,0 +1,1 @@
+document.getElementById("display").style.color="golden rod";
